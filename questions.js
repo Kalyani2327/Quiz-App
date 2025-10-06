@@ -1278,7 +1278,7 @@ merge_conflicts: [
     answer: "Test code and run builds"
   }
 ],
-Assignment: [
+Assingment: [
   // 1
   {
     question: "You cloned a repository but notice a file is missing. Which command should you run to get the latest changes?",
