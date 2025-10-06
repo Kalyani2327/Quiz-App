@@ -18,4 +18,4 @@ The app is built using **HTML, CSS, and JavaScript** and provides a clean, inter
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Kalyani2327/Quiz-App.git
